@@ -1,4 +1,4 @@
-const searchClient = algoliasearch('YOUR APPLICATION ID GOES HERE', 'YOUR SEARCH ONLY API KEY GOES HERE');
+const searchClient = algoliasearch('DRZYQ4MTCH', '28d3d74275c3ef7a1ef799432c89277d');
 
 const search = instantsearch({
 indexName: 'Email-Index',
